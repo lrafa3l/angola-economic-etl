@@ -214,4 +214,4 @@ No API key required.
 
 ## 👤 Author
 
-**Lando N. Rafael** — [linkedin.com/in/landorafael](https://linkedin.com/in/landorafael)
+**Lando Rafael** — [linkedin.com/in/landorafael](https://linkedin.com/in/landorafael)
